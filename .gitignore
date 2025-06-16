@@ -1,0 +1,14 @@
+# Ignore target directory
+/target
+
+# Ignore IDE files
+/.idea
+*.iml
+
+# Ignore logs and system files
+*.log
+.DS_Store
+
+# Maven
+dependency-reduced-pom.xml
+build/
